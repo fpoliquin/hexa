@@ -1,1 +1,1 @@
-deno test --allow-all --watch .
+deno test --allow-all .

@@ -1,1 +1,1 @@
-deno run --allow-all --watch main.ts
+deno run --allow-all main.ts
